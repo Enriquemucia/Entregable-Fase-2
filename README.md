@@ -7,5 +7,5 @@ Archivos en el Repositorio:
 2.	bank-additional-full-transformed.csv: Dataset resultante del proceso de ingeniería de características.
 3.	Proyectofase1_Notebook1.ipynb: Incluye el análisis exploratorio con tablas y gráficas de los datos.
 4.	Proyectofase1_Notebook2.ipynb: Incluye ingeniería de características con el análisis, procedimiento y construcción del Pipeline.
-5.	Proyectofase2_Notebook3: entrenamiento y evaluación de modelos de clasificación detallando los pasos seguidos y la configuración de hiper-parámetros.
+5.	Proyectofase2_Notebook3.ipynb: entrenamiento y evaluación de modelos de clasificación detallando los pasos seguidos y la configuración de hiper-parámetros.
 6.	Archivo Excel con Listado de Modelos: Listado de los modelos probados y ordenados por el nivel de exactitud.
