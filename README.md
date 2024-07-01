@@ -1,4 +1,4 @@
-Alumnos: Mónica Velásquez; y Enrique Rodríguez
+Alumnos: Mónica Velásquez y Enrique Rodríguez
 
 Información: Este repositorio contiene el análisis de datos de un conjunto de datos de marketing bancario, incluyendo el análisis exploratorio, imputación de variables con datos faltantes, codificación de variables categóricas, transformación de variables numéricas, detección y tratamiento de outliers, y el escalado de características utilizando Standard Scaler.
 Archivos en el Repositorio:
